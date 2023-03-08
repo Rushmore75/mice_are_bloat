@@ -1,5 +1,5 @@
 # mice_are_bloat
-[ ] TODO:
+- [ ] TODO:
 `k` moves cursor up
 `h` moves cursor left
 `j` moves cursor down
